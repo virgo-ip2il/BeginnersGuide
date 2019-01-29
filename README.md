@@ -1,5 +1,6 @@
 # A guide for beginners in Virgo
 
+NB : the Virgo collaboration is also working on a (wider-scope) giude for newcomers, the work-in-progress version can be found on this [wiki](https://wiki.virgo-gw.eu/Outreach/BeginnerGuideToVirgo).
 
 ## New member joining the Virgo collaboration
 
